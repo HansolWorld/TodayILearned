@@ -1,4 +1,4 @@
-# TodayILearned
+# Today I Learned
 
-*Javascipt
+## Javascipt
   * [var, let, const](https://github.com/ .md)
