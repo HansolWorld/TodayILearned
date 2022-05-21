@@ -6,7 +6,7 @@ three.js를 사용하는 3가지 방법을 알아 볼것이다. three.js 공식 
 
 - 방법 1
     
-    [https://github.com/mrdoob/three.js/](https://github.com/mrdoob/three.js/)
+    three github : [https://github.com/mrdoob/three.js/](https://github.com/mrdoob/three.js/)
     
     download : [https://github.com/mrdoob/three.js/archive/master.zip](https://github.com/mrdoob/three.js/archive/master.zip)
     
