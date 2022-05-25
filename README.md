@@ -8,7 +8,7 @@
   * [three.js 기본요소](https://github.com/jayG9269/TodayILearned/blob/main/javascript/Three_%EA%B8%B0%EB%B3%B8%EC%9A%94%EC%86%8C.md)
   * [Transform](https://github.com/jayG9269/TodayILearned/blob/main/javascript/Three_Transform.md)
   * [Geometry](https://github.com/jayG9269/TodayILearned/blob/main/javascript/three_geometry.md)
-  * [카메라 컨트롤]()
+  * [camera controls](https://github.com/jayG9269/TodayILearned/blob/main/javascript/three_control.md)
   * [Meterial]()
   * [Light]()
   * [Raycaster]()
