@@ -9,7 +9,7 @@
   * [Transform](https://github.com/jayG9269/TodayILearned/blob/main/javascript/Three_Transform.md)
   * [Geometry](https://github.com/jayG9269/TodayILearned/blob/main/javascript/three_geometry.md)
   * [camera controls](https://github.com/jayG9269/TodayILearned/blob/main/javascript/three_control.md)
-  * [Meterial]()
+  * [Meterial](https://github.com/jayG9269/TodayILearned/blob/main/javascript/three_material.md)
   * [Light]()
   * [Raycaster]()
   * [Particle]()
