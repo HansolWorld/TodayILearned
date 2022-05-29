@@ -10,6 +10,6 @@
   * [Geometry](https://github.com/jayG9269/TodayILearned/blob/main/javascript/three_geometry.md)
   * [camera controls](https://github.com/jayG9269/TodayILearned/blob/main/javascript/three_control.md)
   * [Meterial](https://github.com/jayG9269/TodayILearned/blob/main/javascript/three_material.md)
-  * [Light]()
+  * [Light](https://github.com/jayG9269/TodayILearned/blob/main/javascript/three_light.md)
   * [Raycaster]()
   * [Particle]()
