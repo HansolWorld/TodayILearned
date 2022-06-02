@@ -255,3 +255,5 @@ function setShape(e) {
 
 buttonWrapper.addEventListner("click", setShape)
 ```
+
+particle의 모양을 바꾸기 위해 버튼을 추가한다. sphereGeometry 버튼과 randomGeometry 버튼을 추가해 버튼에 맞게 이동하게 한다. 각 geometry의 position을 array로 저장한다. 버튼에 맞게 array를 선택하게 하고 선택된 array의 position으로 imagePanel을 보낸다. 보낼때 imagePanel의 각도를 저장해 각도도 같이 움직이게 한다.
