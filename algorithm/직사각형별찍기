@@ -1,0 +1,31 @@
+문제:https://programmers.co.kr/learn/courses/30/lessons/12969?language=javascript
+
+### 입력
+
+```jsx
+5 3
+```
+
+### 출력
+
+```jsx
+*****
+*****
+*****
+```
+
+### 풀이
+
+```jsx
+process.stdin.setEncoding('utf8');
+process.stdin.on('data', data => {
+    const n = data.split(" ");
+    const a = Number(n[0]), b = Number(n[1]);
+    for (var i=0; i<b; i++) {
+        console.log("*".repeat(a))
+    }
+});
+```
+
+입력을 split을 통해 n과 m으로 나눠준다. m은 for loop의 값으로 사용해고 n은 *를 repeat을 통해 반복하는데 사용한다.
+
