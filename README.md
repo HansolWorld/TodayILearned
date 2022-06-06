@@ -25,3 +25,6 @@
     * [핸드폰 번호 가리기](https://github.com/jayG9269/TodayILearned/blob/main/algorithm/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.md)
     * [하샤드 수](https://github.com/jayG9269/TodayILearned/blob/main/algorithm/%ED%95%98%EC%83%A4%EB%93%9C%EC%88%98.md)
     * [평군 구하기](https://github.com/jayG9269/TodayILearned/blob/main/algorithm/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
+    * [콜라측 추측](https://github.com/jayG9269/TodayILearned/blob/main/algorithm/%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1.md)
+    * [최대공약수와 최소공배수](https://github.com/jayG9269/TodayILearned/blob/main/algorithm/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md)
+    * [짝수와 홀수](https://github.com/jayG9269/TodayILearned/blob/main/algorithm/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98.md)
