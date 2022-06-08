@@ -3,6 +3,7 @@
 ## HTML/CSS
 * HTML
   * [html?](https://github.com/jayG9269/TodayILearned/blob/main/html/HTML.md) 
+  * [tag](https://github.com/jayG9269/TodayILearned/blob/main/html/tag.md)
 * CSS
 ## Javascipt
 * variable
