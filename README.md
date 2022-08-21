@@ -6,6 +6,12 @@
   * [tag](https://github.com/jayG9269/TodayILearned/blob/main/html/tag.md)
 * CSS
 ## Javascipt
+* 모던 자바스크립트 deep dive
+  * 1장
+  * 2장
+  * 3장
+  * 4장
+  * 5장
 * variable
   * [var, let, const](https://github.com/jayG9269/TodayILearned/blob/main/javascript/var_let_const.md)
 * Three
