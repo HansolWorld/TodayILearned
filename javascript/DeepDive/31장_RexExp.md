@@ -39,7 +39,7 @@ regExp.test(target) // true
 정규표현식의 패턴과 매칭되는 결과를 배열로 반환. exec와 다른점은 g플래스를 사용하면 매칭되는 모든 결과를 반환한다.
 ```js
 const target = "Is this all there is?"
-const regExp = /is/g
+const regExp = /is/gi
 
 regExp.match(target) // ["is", "is"]
 ```
