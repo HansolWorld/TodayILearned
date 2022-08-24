@@ -9,7 +9,7 @@ const regexp = /is/i
 
 regexp.test(target)
 ```
-정규표현식은 ***/페턴/플래스*** 형태로 생성한다. 또는 ***new RegExp*** 생성자 함수를 통해 생성할 수 있다.
+정규표현식은 ***/패턴/플래그*** 형태로 생성한다. 또는 ***new RegExp*** 생성자 함수를 통해 생성할 수 있다.
 ```js
 const target = "Is this all there is?"
 
@@ -18,7 +18,7 @@ const regexp = new RegExp(/is/i) // new RegExp("is", "i")
 regexp.test(target)
 
 ```
-## 31.3 RegXep 매서드
+## 31.3 RegExp 매서드
 ### 31.3.1 RegExp.protorype.exec
 정규 표현식의 패턴을 검색해 매칭 결과를 배열로 변환, 매칭이 없는 경우 null 반환
 ```js
@@ -39,7 +39,7 @@ regExp.test(target) // true
 정규표현식의 패턴과 매칭되는 결과를 배열로 반환. exec와 다른점은 g플래스를 사용하면 매칭되는 모든 결과를 반환한다.
 ```js
 const target = "Is this all there is?"
-const regExp = /is/g
+const regExp = /is/gi
 
 regExp.match(target) // ["is", "is"]
 ```
