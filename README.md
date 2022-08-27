@@ -7,11 +7,27 @@
 * CSS
 ## Javascipt
 * 모던 자바스크립트 deep dive
-  * 1장
-  * 2장
-  * 3장
-  * 4장
-  * 5장
+  * [변수](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/4%EC%9E%A5_%EB%B3%80%EC%88%98.md)
+  * [표현식과 문](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/5%EC%9E%A5_%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC%EB%AC%B8.md)
+  * [데이터 타입](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/6%EC%9E%A5_%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85.md)
+  * [연산자](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/7%EC%9E%A5_%EC%97%B0%EC%82%B0%EC%9E%90.md)
+  * [제어문](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/8%EC%9E%A5_%EC%A0%9C%EC%96%B4%EB%AC%B8.md)
+  * [타입변환과 단축평가](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/9%EC%9E%A5_%ED%83%80%EC%9E%85%EB%B3%80%ED%99%98%EA%B3%BC_%EB%8B%A8%EC%B6%95%ED%8F%89%EA%B0%80.md)
+  * [객체리터럴](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/10%EC%9E%A5_%EA%B0%9D%EC%B2%B4%EB%A6%AC%ED%84%B0%EB%9F%B4.md)
+  * [원시값과 객체의 비교](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/11%EC%9E%A5_%EC%9B%90%EC%8B%9C%EA%B0%92%EA%B3%BC_%EA%B0%9D%EC%B2%B4%EC%9D%98%EB%B9%84%EA%B5%90.md)
+  * [함수](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/12%EC%9E%A5_%ED%95%A8%EC%88%98.md)
+  * [스코프](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/13%EC%9E%A5_%EC%8A%A4%EC%BD%94%ED%94%84.md)
+  * [전역변수의 문제점](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/14%EC%9E%A5_%EC%A0%84%EC%97%B0%EB%B3%80%EC%88%98%EC%9D%98_%EB%AC%B8%EC%A0%9C%EC%A0%90.md)
+  * [let, const 키워드와 블록레벨 스코프](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/15%EC%9E%A5_let%2Cconst%ED%82%A4%EC%9B%8C%EB%93%9C%EC%99%80_%EB%B8%94%EB%A1%9D%EB%A0%88%EB%B2%A8%EC%8A%A4%EC%BD%94%ED%94%84.md)
+  * []
+  * []
+  * []
+  * [배열](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/27%EC%9E%A5_%EB%B0%B0%EC%97%B4.md)
+  * [Number](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/28%EC%9E%A5_number.md)
+  * [Math](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/29%EC%9E%A5_math.md)
+  * [Date](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/30%EC%9E%A5_Date.md)
+  * [RexExp](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/31%EC%9E%A5_RexExp.md)
+  * [String](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/32%EC%9E%A5_String.md)
 * variable
   * [var, let, const](https://github.com/jayG9269/TodayILearned/blob/main/javascript/Three/var_let_const.md)
 * Three
