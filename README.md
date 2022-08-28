@@ -19,6 +19,15 @@
   * [스코프](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/13%EC%9E%A5_%EC%8A%A4%EC%BD%94%ED%94%84.md)
   * [전역변수의 문제점](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/14%EC%9E%A5_%EC%A0%84%EC%97%B0%EB%B3%80%EC%88%98%EC%9D%98_%EB%AC%B8%EC%A0%9C%EC%A0%90.md)
   * [let, const 키워드와 블록레벨 스코프](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/15%EC%9E%A5_let%2Cconst%ED%82%A4%EC%9B%8C%EB%93%9C%EC%99%80_%EB%B8%94%EB%A1%9D%EB%A0%88%EB%B2%A8%EC%8A%A4%EC%BD%94%ED%94%84.md)
+  * [프로퍼티 어트리뷰트](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/16%EC%9E%A5_%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0_%EC%96%B4%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%8A%B8.md)
+  * [생성자함수에의한 객체생성](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/17%EC%9E%A5_%EC%83%9D%EC%84%B1%EC%9E%90%ED%95%A8%EC%88%98%EC%97%90%EC%9D%98%ED%95%9C_%EA%B0%9D%EC%B2%B4%EC%83%9D%EC%84%B1.md)
+  * [함수와 일급 객체](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/18%EC%9E%A5_%ED%95%A8%EC%88%98%EC%99%80_%EC%9D%BC%EA%B8%89%EA%B0%9D%EC%B2%B4.md)
+  * []
+  * []
+  * []
+  * []
+  * []
+  * []
   * []
   * []
   * []
