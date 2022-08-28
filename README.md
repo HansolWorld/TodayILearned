@@ -37,3 +37,4 @@
     * [짝수와 홀수](https://github.com/jayG9269/TodayILearned/blob/main/algorithm/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98.md)
 
 test 수정
+l
