@@ -6,8 +6,7 @@
   * [tag](https://github.com/jayG9269/TodayILearned/blob/main/html/tag.md)
 * CSS
 ## Javascipt
-<details>
-<summary>* 모던 자바스크립트 deep dive</summary>
+* 모던 자바스크립트 deep dive</summary>
   * [변수](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/4%EC%9E%A5_%EB%B3%80%EC%88%98.md)
   * [표현식과 문](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/5%EC%9E%A5_%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC%EB%AC%B8.md)
   * [데이터 타입](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/6%EC%9E%A5_%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85.md)
@@ -35,7 +34,6 @@
   * [Date](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/30%EC%9E%A5_Date.md)
   * [RexExp](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/31%EC%9E%A5_RexExp.md)
   * [String](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/32%EC%9E%A5_String.md)
-</details>
 * variable
   * [var, let, const](https://github.com/jayG9269/TodayILearned/blob/main/javascript/Three/var_let_const.md)
 * Three
