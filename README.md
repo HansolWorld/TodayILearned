@@ -6,7 +6,8 @@
   * [tag](https://github.com/jayG9269/TodayILearned/blob/main/html/tag.md)
 * CSS
 ## Javascipt
-* 모던 자바스크립트 deep dive
+<details>
+<summary>* 모던 자바스크립트 deep dive</summary>
   * [변수](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/4%EC%9E%A5_%EB%B3%80%EC%88%98.md)
   * [표현식과 문](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/5%EC%9E%A5_%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC%EB%AC%B8.md)
   * [데이터 타입](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/6%EC%9E%A5_%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85.md)
@@ -34,6 +35,7 @@
   * [Date](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/30%EC%9E%A5_Date.md)
   * [RexExp](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/31%EC%9E%A5_RexExp.md)
   * [String](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/32%EC%9E%A5_String.md)
+</details>
 * variable
   * [var, let, const](https://github.com/jayG9269/TodayILearned/blob/main/javascript/Three/var_let_const.md)
 * Three
@@ -57,6 +59,3 @@
     * [콜라측 추측](https://github.com/jayG9269/TodayILearned/blob/main/algorithm/%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1.md)
     * [최대공약수와 최소공배수](https://github.com/jayG9269/TodayILearned/blob/main/algorithm/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.md)
     * [짝수와 홀수](https://github.com/jayG9269/TodayILearned/blob/main/algorithm/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98.md)
-
-test 수정
-l
