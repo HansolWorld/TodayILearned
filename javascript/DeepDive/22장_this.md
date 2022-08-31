@@ -179,7 +179,7 @@ const obj = {
 obj.foo()
 ```
 **일반 함수로 호출되는 모든 함수 내부의 this에는 전역 객체가 바인딩된다.**   
-콜백함수나 중첩함수에 this가 전역 객체를 바인딩 하는것은 오ㅚ부함수인 메서드와 중첩함수 또는 콜백함수의 this가 일치하지 않는다는 것은 헬퍼 함수로 동작하기 어렵게 만든다.   
+콜백함수나 중첩함수에 this가 전역 객체를 바인딩 하는것은 부함수인 메서드와 중첩함수 또는 콜백함수의 this가 일치하지 않는다는 것은 헬퍼 함수로 동작하기 어렵게 만든다.   
 메서드 내부의 중첩 함수나 홀백함수의 this 바인딩을 메서드의 this 바인딩과 일치시키는 작업이 필요하다.
 ```js
 var value = 1
@@ -199,7 +199,7 @@ const obj = {
 
 obj.foo()
 ```
-또는, this를 명시적으로 바인딩 할수 있는 Function.prototype.apply/vall/bind 메서드를 사용하는 방법도 있다.
+또는, this를 명시적으로 바인딩 할수 있는 Function.prototype.apply/call/bind 메서드를 사용하는 방법도 있다.
 ```js
 var value = 1
 
@@ -305,7 +305,7 @@ console.log(circle1.getDiameter()) // 10
 console.log(circle2.getDiameter()) // 20
 ```
 ### 22.2.4 Function.prototype.apply/call/bind 메서드에 의한 간접 호출
-apply. bind, call 메서드는 Function.prototype의 메서드로 상속받아 사용할 수 있다.
+apply, bind, call 메서드는 Function.prototype의 메서드로 상속받아 사용할 수 있다.
 ```js
 function getThisBinding() {
   return this
