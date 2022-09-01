@@ -27,7 +27,9 @@
   * [빌트인 객체](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/21%EC%9E%A5_%EB%B9%8C%ED%8A%B8%EC%9D%B8%EA%B0%9D%EC%B2%B4.md)
   * [this](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/22%EC%9E%A5_this.md)
   * [실행 컨텍스트](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/23%EC%9E%A5_%EC%8B%A4%ED%96%89%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
+  * [클로저]()
   * []
+  * [ES6 함수의 추가 기능]()
   * [배열](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/27%EC%9E%A5_%EB%B0%B0%EC%97%B4.md)
   * [Number](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/28%EC%9E%A5_number.md)
   * [Math](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/29%EC%9E%A5_math.md)
