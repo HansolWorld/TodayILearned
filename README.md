@@ -28,7 +28,7 @@
   * [this](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/22%EC%9E%A5_this.md)
   * [실행 컨텍스트](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/23%EC%9E%A5_%EC%8B%A4%ED%96%89%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
   * [클로저](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/24%EC%9E%A5_%ED%81%B4%EB%A1%9C%EC%A0%80.md)
-  * []
+  * [클래스](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/25%EC%9E%A5_%ED%81%B4%EB%9E%98%EC%8A%A4.md)
   * [ES6 함수의 추가 기능](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/26%EC%9E%A5_ES6%ED%95%A8%EC%88%98%EC%9D%98_%EC%B6%94%EA%B0%80%EA%B8%B0%EB%8A%A5.md)
   * [배열](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/27%EC%9E%A5_%EB%B0%B0%EC%97%B4.md)
   * [Number](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/28%EC%9E%A5_number.md)
@@ -36,6 +36,16 @@
   * [Date](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/30%EC%9E%A5_Date.md)
   * [RexExp](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/31%EC%9E%A5_RexExp.md)
   * [String](https://github.com/HansolWorld/TodayILearned/blob/main/javascript/DeepDive/32%EC%9E%A5_String.md)
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
 * variable
   * [var, let, const](https://github.com/jayG9269/TodayILearned/blob/main/javascript/Three/var_let_const.md)
 * Three
