@@ -47,11 +47,12 @@
   * [타이머](javascript/DeepDive/41%EC%9E%A5_%ED%83%80%EC%9D%B4%EB%A8%B8.md)
   * [비동기프로그래밍](javascript/DeepDive/42%EC%9E%A5_%EB%B9%84%EB%8F%99%EA%B8%B0%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
   * [Ajax](javascript/DeepDive/43%EC%9E%A5_Ajax.md)
-  * []()
+  * [REST API](javascript/DeepDive/44%EC%9E%A5_REST_API.md)
   * [프로미스](javascript/DeepDive/45%EC%9E%A5_%ED%94%84%EB%A1%9C%EB%AF%B8%EC%8A%A4.md)
   * [제너레이터와 async/await](javascript/DeepDive/46%EC%9E%A5_%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%EC%99%80_async_await.md)
-  * []()
-  * []()
+  * [에러처리](javascript/DeepDive/47%EC%9E%A5_%EC%97%90%EB%9F%AC%EC%B2%98%EB%A6%AC.md)
+  * [모듈](javascript/DeepDive/48%EC%9E%A5_%EB%AA%A8%EB%93%88.md)
+  * [Babel/Webpack](javascript/DeepDive/49%EC%9E%A5_Babel%EA%B3%BC_Webpack%EC%9D%84_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%EA%B5%AC%EC%B6%95.md)
 * variable
   * [var, let, const](javascript/Three/var_let_const.md)
 * Three
